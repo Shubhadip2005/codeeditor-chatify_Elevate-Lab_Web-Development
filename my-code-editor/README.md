@@ -13,7 +13,7 @@
 
 | Editor Interface |
 |:-----------------:|
-|![Interface](/public/Code%20Editor%20Interface.png)|
+|![Interface](./public/Code%20Editor%20Interface.png)|
 
 *A powerful, feature-rich online code editor providing a complete development environment with real-time preview, professional templates, and VS Code-like editing experience.*
 
