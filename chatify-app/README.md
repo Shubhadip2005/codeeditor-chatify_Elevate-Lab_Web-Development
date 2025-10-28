@@ -75,15 +75,15 @@
 
 | SignUp Screen |
 |:------------:|
-| ![SignUp](/frontend/public/signup_for_frontend.png) |
+| ![SignUp](./frontend/public/signup_for_frontend.png) |
 
 | Login Screen |
 |:------------:|
-| ![Login](/frontend/public/login_for_frontend.png) |
+| ![Login](./frontend/public/login_for_frontend.png) |
 
 | Chat Interface |
 |:--------------:|
-| ![Chat](/frontend/public/chat_for_frontend.png) |
+| ![Chat](./frontend/public/chat_for_frontend.png) |
 
 </div>
 
@@ -337,5 +337,6 @@ For questions, support, or feedback:
 Built with ❤️ using modern web technologies
 
 [Report Bug](https://github.com/Shubhadip2005/chatify-app/issues) • [Request Feature](https://github.com/Shubhadip2005/chatify-app/issues)
+
 
 </div>
